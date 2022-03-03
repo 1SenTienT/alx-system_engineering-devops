@@ -1,1 +1,1 @@
-$'My third readme' 
+My first shell permissions readme
